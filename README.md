@@ -19,7 +19,7 @@ Rather than directly replicating the human hand, engineers are exploring more sp
 
 #
 
-![Off-Road Muddy Tracked Bot](https://github.com/user-attachments/assets/43184404-2865-4175-86e1-29e591e84c06)
+![Muddy Tank](https://github.com/user-attachments/assets/42406aa5-86a1-414e-850b-f4766b233398)
 
 Tracked and wheeled robots each offer distinct advantages and limitations depending on their operational environment and mission objectives. Tracked robots, which use continuous belts or treads similar to those found on tanks, excel in environments where terrain is unpredictable or rough. These systems distribute weight more evenly across the surface, which enhances traction and stability on soft ground, such as sand, mud, snow, or rubble. Tracked robots are often used in search-and-rescue operations, military applications, and planetary exploration where obstacles like rocks, slopes, and debris must be navigated without getting stuck. Their ability to pivot in place (zero-radius turning) offers excellent maneuverability in tight or confined spaces. However, this advantage comes at the cost of speed and mechanical complexity. Tracks generate more friction than wheels, leading to slower movement and increased energy consumption. Maintenance can also be a concern, as tracks are more prone to wear and damage, especially in urban or indoor environments where sharp turns or flat, hard surfaces can rapidly degrade their treads.
 
