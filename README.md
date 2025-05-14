@@ -11,9 +11,6 @@ The choice between biomechanical humanoids and abstract robotic designs ultimate
 
 #
 ![Humanoids](https://github.com/user-attachments/assets/236e84dc-21f6-4231-adf4-714610860c1a)
-#
-
-![Dexterous](https://github.com/user-attachments/assets/cbc3934c-03c5-451f-9158-c26cd6fa4003)
 
 Dexterity engineering in robotics is a critical field that seeks to improve robots' ability to manipulate objects in ways that are similar to, or even surpass, human capabilities. While the human hand is often considered the gold standard for dexterity due to its range of motion and fine motor skills, it may not be the ideal model for robot design. Human hands, with their complex skeletal and muscular structures, are highly evolved for specific tasks but also exhibit limitations like fragility, inefficiency in certain movements, and an inability to maintain precise, long-term force without fatigue. These limitations make human-inspired hands suboptimal for many robotic applications, especially when durability, speed, or consistency are required.
 
