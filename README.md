@@ -1,6 +1,6 @@
 `Programmable machines that replicate, substitute, or assist humans.`
 
-![Tracked Paintball Robot](https://github.com/user-attachments/assets/9db294d2-8577-4f09-8eb1-1de78feca5fa)
+![Futuristic Driverless EV Concept Car](https://github.com/user-attachments/assets/029b672f-ac73-4dc6-a54e-246fb1d4e591)
 
 #
 
