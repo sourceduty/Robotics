@@ -27,6 +27,12 @@ In contrast, wheeled robots are generally faster, more energy-efficient, and sim
 
 #
 
+![Ontario Bot](https://github.com/user-attachments/assets/50e95954-744c-49f8-bdc4-c10384e7b7a8)
+
+A 3D marketplace like Cults3D can use copyright law to protect the digital 3D model file (such as STL or CAD files), including its creative elements, descriptions, and renderings. However, copyright does not cover the functional design of a robotic part, meaning others could replicate its mechanical structure unless it is protected by a patent. While copyright prevents unauthorized distribution of the digital file, it does not stop someone from independently designing and manufacturing a similar physical part. Marketplaces can still enforce their terms of service to restrict unauthorized sharing or resale of the 3D model.
+
+#
+
 [Car Design](https://chatgpt.com/g/g-EPHgYBaHt-car-design)
 <br>
 [Robot Design](https://chatgpt.com/g/g-67d3107cddd88191913f4af954e48e19-robot-design)
