@@ -37,15 +37,15 @@ Tracked and wheeled robots each offer distinct advantages and limitations depend
 
 #
 
-![Ontario Bot](https://github.com/user-attachments/assets/50e95954-744c-49f8-bdc4-c10384e7b7a8)
-
-A 3D marketplace like Cults3D can use copyright law to protect the digital 3D model file (such as STL or CAD files), including its creative elements, descriptions, and renderings. However, copyright does not cover the functional design of a robotic part, meaning others could replicate its mechanical structure unless it is protected by a patent. While copyright prevents unauthorized distribution of the digital file, it does not stop someone from independently designing and manufacturing a similar physical part. Marketplaces can still enforce their terms of service to restrict unauthorized sharing or resale of the 3D model.
-
-#
-
 ![Robot Control Dev](https://github.com/user-attachments/assets/936b4a6a-ad84-42ec-99f0-5c7731f8a4f1)
 
 [Robot Control Dev](https://chatgpt.com/g/g-6830424594c88191a652bd5140074fc7-robot-control-dev) was made to assist in the development of terminal-style robotics control and command programs, helping users write and optimize code for controlling robots through command-line interfaces. It specializes in offering guidance, code examples, and tailored solutions for interfacing with robotic systems using various programming languages such as Python, C++, and JavaScript. The GPT helps users craft scripts to control motors, sensors, actuators, and implement algorithms for tasks like movement control, path planning, obstacle avoidance, or localization. Additionally, it can process sensor data for real-time decision-making and facilitate communication protocols such as sockets, MQTT, or WebSockets for networked robots or remote control setups. It also offers debugging assistance and advice on optimizing performance, memory management, and system stability. Ultimately, this GPT aims to make robot control intuitive and efficient for users, regardless of their robot model or configuration, whether they're building simple scripts or developing complex autonomous behaviors, and ensures smooth integration with robotic hardware or simulation environments, offering flexibility and precision in controlling robotic systems.
+
+#
+
+![Ontario Bot](https://github.com/user-attachments/assets/50e95954-744c-49f8-bdc4-c10384e7b7a8)
+
+A 3D marketplace like Cults3D can use copyright law to protect the digital 3D model file (such as STL or CAD files), including its creative elements, descriptions, and renderings. However, copyright does not cover the functional design of a robotic part, meaning others could replicate its mechanical structure unless it is protected by a patent. While copyright prevents unauthorized distribution of the digital file, it does not stop someone from independently designing and manufacturing a similar physical part. Marketplaces can still enforce their terms of service to restrict unauthorized sharing or resale of the 3D model.
 
 #
 
