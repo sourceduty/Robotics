@@ -46,3 +46,5 @@ A 3D marketplace like Cults3D can use copyright law to protect the digital 3D mo
 [Theoretical Robotics](https://chatgpt.com/g/g-67b4b6e1d880819188bebf470b2a9659-theoretical-robotics)
 <br>
 [Construction Robotics](https://chatgpt.com/g/g-676b896b267c8191b886c0651ddb5890-construction-robotics)
+<br>
+[Factory Robotics](https://chatgpt.com/g/g-67910b9a76dc8191a236980332d01d38-factory-robotics)
