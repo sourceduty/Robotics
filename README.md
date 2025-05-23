@@ -19,6 +19,8 @@ Rather than directly replicating the human hand, engineers are exploring more sp
 
 [Robot Battlefield](https://chatgpt.com/g/g-68301addd4648191bcc1026a9fa4bf3f-robot-battlefield) was made to facilitate a strategic robotic warfare simulation, allowing users to command and control autonomous robots equipped with advanced weapons and defensive systems in various combat scenarios. The user can initialize robots, assigning them specific names, types, weapons, and armor, then issue a wide range of commands to control their movement, combat actions, and special abilities. Whether it's moving robots to specific coordinates, engaging enemy units, deploying reconnaissance drones, or activating shields for protection, the system simulates a dynamic battlefield where every tactical decision impacts the outcome. The environment and conditions, such as terrain and sensor capabilities, play a crucial role in how the robots perform, providing an immersive experience for simulating various combat situations. Users can also analyze combat scenarios, refine strategies, and view detailed visualizations of the battlefield, including maps, thermal scans, and real-time battle scenes, enhancing their understanding of the ongoing mission. Through this system, users can engage in complex robotic warfare simulations, making strategic decisions to outsmart enemies, adapt to changing conditions, and ultimately achieve victory on the battlefield.
 
+`print_battlefield_map --format "aerial"`
+
 #
 
 ![Muddy Tank](https://github.com/user-attachments/assets/42406aa5-86a1-414e-850b-f4766b233398)
