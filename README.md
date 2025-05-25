@@ -60,3 +60,5 @@ A 3D marketplace like Cults3D can use copyright law to protect the digital 3D mo
 [Factory Robotics](https://chatgpt.com/g/g-67910b9a76dc8191a236980332d01d38-factory-robotics)
 <br>
 [SES](https://github.com/sourceduty/Self-Excited_Motor)
+<br>
+[Agentic Automation](https://github.com/sourceduty/Agentic_Automation)
