@@ -48,8 +48,6 @@ Tracked and wheeled robots each offer distinct advantages and limitations depend
 A 3D marketplace like Cults3D can use copyright law to protect the digital 3D model file (such as STL or CAD files), including its creative elements, descriptions, and renderings. However, copyright does not cover the functional design of a robotic part, meaning others could replicate its mechanical structure unless it is protected by a patent. While copyright prevents unauthorized distribution of the digital file, it does not stop someone from independently designing and manufacturing a similar physical part. Marketplaces can still enforce their terms of service to restrict unauthorized sharing or resale of the 3D model.
 
 #
-![Humanoid Outpoop](https://github.com/user-attachments/assets/5a11c480-0bef-4414-8be5-267af75c9bb7)
-#
 
 [Car Design](https://chatgpt.com/g/g-EPHgYBaHt-car-design)
 <br>
@@ -62,3 +60,5 @@ A 3D marketplace like Cults3D can use copyright law to protect the digital 3D mo
 [SES](https://github.com/sourceduty/Self-Excited_Motor)
 <br>
 [Agentic Automation](https://github.com/sourceduty/Agentic_Automation)
+<br>
+[Gearhead Dev](https://chatgpt.com/g/g-68384797d5608191a99546894faa0c44-gearhead-dev)
