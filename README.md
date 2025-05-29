@@ -62,3 +62,5 @@ A 3D marketplace like Cults3D can use copyright law to protect the digital 3D mo
 [Agentic Automation](https://github.com/sourceduty/Agentic_Automation)
 <br>
 [Gearhead Dev](https://chatgpt.com/g/g-68384797d5608191a99546894faa0c44-gearhead-dev)
+<br>
+[Mechanical](https://github.com/sourceduty/Mechanical)
