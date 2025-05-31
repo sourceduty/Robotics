@@ -7,7 +7,8 @@ Programmable machines that replicate, substitute, or assist humans.
 Humanoids inspired directly by human biomechanics aim to replicate the intricate movements, flexibility, and adaptability of the human body while improving efficiency in robotic design. These robots are built with artificial joints mimicking human tendons, ligaments, and bones, enabling them to perform tasks in human environments with a natural range of motion. Advanced humanoids incorporate biomechanical insights, such as variable stiffness actuators to control movement precision, similar to how human muscles adjust tension for different actions. For instance, robotic exoskeletons and prosthetic limbs are designed based on human kinematics, allowing disabled individuals to regain near-natural movement. The Boston Dynamics Atlas, for example, integrates a sophisticated control system that mimics human balance and coordination, making it capable of running, jumping, and lifting objects dynamically. By incorporating feedback loops like those found in human proprioception—where sensors provide continuous updates about limb position—biomechanical humanoids achieve fluid movement and quick adaptability to unexpected terrain or obstacles. However, replicating human biomechanics presents challenges, such as the complexity of muscle-like actuators and the need for real-time adjustments that human reflexes naturally handle with ease.
 
 #
-![Humanoids](https://github.com/user-attachments/assets/236e84dc-21f6-4231-adf4-714610860c1a)
+
+![EV](https://github.com/user-attachments/assets/6775ad82-e05e-40a5-aeba-251886d50ef6)
 
 The key to reducing the burden of constant robotic maintenance lies in strategically managing aging components with minimal repairs throughout each robot's active lifespan. Instead of heavily investing in maintaining outdated robotic systems, organizations should prioritize replacing older units with newer models as they reach the end of their operational cycle. This method reflects natural population turnover—consistently introducing new units to take the place of those that have become inefficient or obsolete. By maintaining a cycle of regular replacement over intensive repairs and upgrades, companies can sustain high performance levels while significantly lowering long-term maintenance costs.
 
@@ -49,6 +50,8 @@ Tracked and wheeled robots each offer distinct advantages and limitations depend
 
 A 3D marketplace like Cults3D can use copyright law to protect the digital 3D model file (such as STL or CAD files), including its creative elements, descriptions, and renderings. However, copyright does not cover the functional design of a robotic part, meaning others could replicate its mechanical structure unless it is protected by a patent. While copyright prevents unauthorized distribution of the digital file, it does not stop someone from independently designing and manufacturing a similar physical part. Marketplaces can still enforce their terms of service to restrict unauthorized sharing or resale of the 3D model.
 
+#
+![Humanoids](https://github.com/user-attachments/assets/236e84dc-21f6-4231-adf4-714610860c1a)
 #
 
 [Car Design](https://chatgpt.com/g/g-EPHgYBaHt-car-design)
