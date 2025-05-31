@@ -34,7 +34,7 @@ Tracked and wheeled robots each offer distinct advantages and limitations depend
 
 #
 
-![Off-Road Muddy Tracked Bot](https://github.com/user-attachments/assets/3a1b4c62-8e0c-4858-a941-fcfad3d2dc6f)
+![Dig Drone Concept](https://github.com/user-attachments/assets/9d49e3ad-4682-445d-b6cf-e06994ea3982)
 
 [Robot Design](https://chatgpt.com/g/g-67d3107cddd88191913f4af954e48e19-robot-design) was developed  to create unique and imaginative robot designs using advanced AI image generation tools. It specializes in generating high-quality, visually striking robot concepts based on user descriptions, which can range from sci-fi to industrial, futuristic, whimsical, and even cartoonish styles. Whether the user wants robots for a futuristic cityscape, an AI companion, industrial automation, or fantastical creatures, this GPT ensures that the design is detailed, fresh, and original, without relying on copyrighted characters. In addition to creating robot designs, Robot Design can also offer detailed written descriptions, technical specifications, and backstories for each robot, helping to bring the designs to life for applications in world-building, storytelling, game development, or artistic projects. It focuses on ensuring the robots align with the user's desired size, materials, color schemes, functions, and aesthetic influences, whether it’s cyberpunk, steampunk, biomechanical, or minimalist. This GPT is ideal for those looking to incorporate highly detailed and imaginative robots into their creative endeavors.
 
