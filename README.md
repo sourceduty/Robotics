@@ -42,6 +42,12 @@ Tracked and wheeled robots each offer distinct advantages and limitations depend
 
 #
 
+![Pallet System](https://github.com/user-attachments/assets/c2fb4f36-3da3-4925-b6c2-897d93015bc7)
+
+[Pallet System](https://chatgpt.com/g/g-685db9f1f92081918bbb42a90813a31f-pallet-system) is a custom GPT made to develop and optimize automated systems for packaging and palletizing products for shipment. It analyzes industry standards and recommends efficient materials and machinery designs to streamline the loading and securing of boxes onto pallets. The system evaluates technologies such as robotic arms, conveyors, and vision systems to tailor solutions to various warehouse configurations. It also creates CAD-ready concepts, simulates logistics workflows, and suggests improvements based on cost, safety, and throughput. Additionally, Pallet System incorporates sustainability practices, regulatory compliance, and offers support for troubleshooting, retrofitting, and documentation for operational decisions.
+
+#
+
 ![Ontario Bot](https://github.com/user-attachments/assets/50e95954-744c-49f8-bdc4-c10384e7b7a8)
 
 A 3D marketplace like Cults3D can use copyright law to protect the digital 3D model file (such as STL or CAD files), including its creative elements, descriptions, and renderings. However, copyright does not cover the functional design of a robotic part, meaning others could replicate its mechanical structure unless it is protected by a patent. While copyright prevents unauthorized distribution of the digital file, it does not stop someone from independently designing and manufacturing a similar physical part. Marketplaces can still enforce their terms of service to restrict unauthorized sharing or resale of the 3D model.
